@@ -1,5 +1,4 @@
 # How much should life insurance cost in India?
-
 A simple actuarial model that prices a term life insurance policy from
 real Indian mortality data, and compares 1990 with 2023.
 
