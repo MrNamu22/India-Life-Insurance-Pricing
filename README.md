@@ -51,7 +51,7 @@ rate discounts both premiums and payouts.
 
 ### Sensitivity to age at purchase
 
-![Premium against age at purchase](premium_vs_age (1).png)
+![Premium against age at purchase](premium_vs_age.png)
 
 | Age at purchase | 1990 | 2023 |
 |---|---|---|
